@@ -38,7 +38,7 @@ let images = [
   { src: 'imagens/img24.jpg', name: 'Livy' },
   { src: 'imagens/img25.jpg', name: 'Bianca' },
   { src: 'imagens/img26.jpg', name: 'Camila' },
-  { src: 'imagens/img27.jpg', name: 'Elian' },
+  { src: 'imagens/img27.jpg', name: 'Eliana' },
   { src: 'imagens/img28.jpg', name: 'Lara' },
   { src: 'imagens/img29.jpg', name: 'Yasmim' },
   { src: 'imagens/img30.jpg', name: 'Camila2' },
